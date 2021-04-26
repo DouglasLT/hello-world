@@ -6,7 +6,7 @@
 
 ![image](jd-xx.jpg)
 
-[![alt text](http://www.jlu.edu.cn/images/logo.jpg)](http://www.jlu.edu.cn/images/logo.jpg)
+[![alt text](http://www.jlu.edu.cn/images/logo.jpg)](http://www.jlu.edu.cn)
 
 
 ```
