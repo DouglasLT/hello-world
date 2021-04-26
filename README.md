@@ -13,6 +13,7 @@
 int main()
 {
     cout<< "you are great"<<endl;
+}
 ```
 
 
@@ -20,6 +21,6 @@ int main()
 - JiLin University
 - JiLin University
 
-1.JiLin University
-1.JiLin University
-1.JiLin University
+1. JiLin University
+1. JiLin University
+1. JiLin University
