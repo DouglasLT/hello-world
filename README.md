@@ -2,4 +2,4 @@
 #### the first try on github
 [JLU.ccst](http://ccst.jlu.edu.cn/)
 
-[JLU_homepage](JLU_homepage)
+[skip_to_another](the_second)
