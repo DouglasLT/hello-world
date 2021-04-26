@@ -28,3 +28,10 @@ int main()
 |1|2|
 |:----:|:----:|
 |one|two|
+
+**hello dream**
+
+*hello dream*
+
+~~no dream~~
+----
